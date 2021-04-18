@@ -1,3 +1,4 @@
 # Django
 web framework
-hello world app
+welcome page
+
